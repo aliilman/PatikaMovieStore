@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestoretest\\application\\genreoperations\\deletegenrecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|solutionrelative:patikamoviestoretest\\application\\genreoperations\\deletegenrecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestoretest\\application\\useroperations\\updateusercommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|solutionrelative:patikamoviestoretest\\application\\useroperations\\updateusercommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestoretest\\application\\useroperations\\createusercommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|solutionrelative:patikamoviestoretest\\application\\useroperations\\createusercommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestoretest\\application\\useroperations\\deleteusercommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|solutionrelative:patikamoviestoretest\\application\\useroperations\\deleteusercommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestoretest\\application\\useroperations\\updateusercommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|solutionrelative:patikamoviestoretest\\application\\useroperations\\updateusercommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD783B6-FE00-433E-8ECB-ED5CE1C3D60B}|PatikaMovieStore\\PatikaMovieStore.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestore\\operations\\useroperations\\commands\\updateuser\\updateusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD783B6-FE00-433E-8ECB-ED5CE1C3D60B}|PatikaMovieStore\\PatikaMovieStore.csproj|solutionrelative:patikamoviestore\\operations\\useroperations\\commands\\updateuser\\updateusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestoretest\\application\\useroperations\\createusercommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|solutionrelative:patikamoviestoretest\\application\\useroperations\\createusercommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD783B6-FE00-433E-8ECB-ED5CE1C3D60B}|PatikaMovieStore\\PatikaMovieStore.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestore\\operations\\useroperations\\commands\\createuser\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD783B6-FE00-433E-8ECB-ED5CE1C3D60B}|PatikaMovieStore\\PatikaMovieStore.csproj|solutionrelative:patikamoviestore\\operations\\useroperations\\commands\\createuser\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestoretest\\application\\genreoperations\\updategenrecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|solutionrelative:patikamoviestoretest\\application\\genreoperations\\updategenrecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestoretest\\application\\genreoperations\\creategenrecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21118C59-EAB4-4FC7-90AA-9BD58B1730CB}|PatikaMovieStoreTest\\PatikaMovieStoreTest.csproj|solutionrelative:patikamoviestoretest\\application\\genreoperations\\creategenrecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD783B6-FE00-433E-8ECB-ED5CE1C3D60B}|PatikaMovieStore\\PatikaMovieStore.csproj|c:\\users\\ali\\desktop\\patikamoviestore\\patikamoviestore\\operations\\directoroperations\\command\\deletedirector\\deletedirectorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD783B6-FE00-433E-8ECB-ED5CE1C3D60B}|PatikaMovieStore\\PatikaMovieStore.csproj|solutionrelative:patikamoviestore\\operations\\directoroperations\\command\\deletedirector\\deletedirectorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateUserCommandValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\UserOperations\\UpdateUserCommandValidatorTest.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStoreTest\\Application\\UserOperations\\UpdateUserCommandValidatorTest.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\UserOperations\\UpdateUserCommandValidatorTest.cs",
+              "RelativeToolTip": "PatikaMovieStoreTest\\Application\\UserOperations\\UpdateUserCommandValidatorTest.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T23:05:40.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStore\\Operations\\UserOperations\\Commands\\UpdateUSer\\UpdateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStore\\Operations\\UserOperations\\Commands\\UpdateUSer\\UpdateUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStore\\Operations\\UserOperations\\Commands\\UpdateUSer\\UpdateUserCommandValidator.cs",
+              "RelativeToolTip": "PatikaMovieStore\\Operations\\UserOperations\\Commands\\UpdateUSer\\UpdateUserCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T23:05:28.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateUserCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\UserOperations\\UpdateUserCommandTest.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStoreTest\\Application\\UserOperations\\UpdateUserCommandTest.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\UserOperations\\UpdateUserCommandTest.cs",
+              "RelativeToolTip": "PatikaMovieStoreTest\\Application\\UserOperations\\UpdateUserCommandTest.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T23:00:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteUserCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\UserOperations\\DeleteUserCommandTest.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStoreTest\\Application\\UserOperations\\DeleteUserCommandTest.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\UserOperations\\DeleteUserCommandTest.cs",
+              "RelativeToolTip": "PatikaMovieStoreTest\\Application\\UserOperations\\DeleteUserCommandTest.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T22:58:53.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\UserOperations\\CreateUserCommandTest.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStoreTest\\Application\\UserOperations\\CreateUserCommandTest.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\UserOperations\\CreateUserCommandTest.cs",
+              "RelativeToolTip": "PatikaMovieStoreTest\\Application\\UserOperations\\CreateUserCommandTest.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T22:49:20.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteGenreCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\GenreOperations\\DeleteGenreCommandTest.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStoreTest\\Application\\GenreOperations\\DeleteGenreCommandTest.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\GenreOperations\\DeleteGenreCommandTest.cs",
+              "RelativeToolTip": "PatikaMovieStoreTest\\Application\\GenreOperations\\DeleteGenreCommandTest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T22:45:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserCommandValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\UserOperations\\CreateUserCommandValidatorTest.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStoreTest\\Application\\UserOperations\\CreateUserCommandValidatorTest.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\UserOperations\\CreateUserCommandValidatorTest.cs",
+              "RelativeToolTip": "PatikaMovieStoreTest\\Application\\UserOperations\\CreateUserCommandValidatorTest.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwDsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T22:55:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStore\\Operations\\UserOperations\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStore\\Operations\\UserOperations\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStore\\Operations\\UserOperations\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "RelativeToolTip": "PatikaMovieStore\\Operations\\UserOperations\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T22:58:14.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateGenreCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\GenreOperations\\UpdateGenreCommandTest.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStoreTest\\Application\\GenreOperations\\UpdateGenreCommandTest.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\GenreOperations\\UpdateGenreCommandTest.cs",
+              "RelativeToolTip": "PatikaMovieStoreTest\\Application\\GenreOperations\\UpdateGenreCommandTest.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T22:48:45.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateGenreCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\GenreOperations\\CreateGenreCommandTest.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStoreTest\\Application\\GenreOperations\\CreateGenreCommandTest.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStoreTest\\Application\\GenreOperations\\CreateGenreCommandTest.cs",
+              "RelativeToolTip": "PatikaMovieStoreTest\\Application\\GenreOperations\\CreateGenreCommandTest.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T22:44:53.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteDirectorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStore\\Operations\\DirectorOperations\\Command\\DeleteDirector\\DeleteDirectorCommand.cs",
+              "RelativeDocumentMoniker": "PatikaMovieStore\\Operations\\DirectorOperations\\Command\\DeleteDirector\\DeleteDirectorCommand.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\PatikaMovieStore\\PatikaMovieStore\\Operations\\DirectorOperations\\Command\\DeleteDirector\\DeleteDirectorCommand.cs",
+              "RelativeToolTip": "PatikaMovieStore\\Operations\\DirectorOperations\\Command\\DeleteDirector\\DeleteDirectorCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T22:44:12.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
